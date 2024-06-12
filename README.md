@@ -13,4 +13,4 @@ Mouse Right Button: Heal. Heal recovers 10 Health Points, and costs 5 Mana Point
 Mouse Button Scroll: Defend. Defend lets you raise your armor and magic resist untill the begining of next turn.  
 Mouse Button XButton1: Spell. Spell deal 10 damage and it's damage is lowered by magic resist. Spell costs 5 Mana Points.  
   
-[How to install SFML]([https://pages.github.com/](https://www.youtube.com/watch?v=EXY7MNqKHTc)).  
+[How to install SFML](https://www.youtube.com/watch?v=EXY7MNqKHTc) 
