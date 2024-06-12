@@ -3,17 +3,18 @@ project(Game)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Game main.cpp
-        Okno.cpp
-        Okno.h
-        Character.cpp
-        Character.h
-        Enemy.cpp
-        Enemy.h
-        BackGround.cpp
-        BackGround.h
-        Fonts.cpp
-        Fonts.h
+add_executable(Game resources/main.cpp
+        resources/Okno.cpp
+        resources/Okno.h
+        resources/Character.cpp
+        resources/Character.h
+        resources/Enemy.cpp
+        resources/Enemy.h
+        resources/BackGround.cpp
+        resources/BackGround.h
+        resources/Fonts.cpp
+        resources/Fonts.h
+
 )
 
 include_directories(headers /usr/include c:/SFML/include)
